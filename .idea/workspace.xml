@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5ed36362-d73b-4fa4-a2ea-5e908d969064" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\三期\meven\mever-jar" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../三期/meven/apache-maven-3.8.4" />
+        <option name="userSettingsFile" value="D:\三期\meven\apache-maven-3.8.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="25Xt1n5YwsAtX6oi9zDTuPOmiZc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/itripauth/src/main/java/com/bdqn/controller" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="controller" />
+      <recent name="common" />
+      <recent name="com.bdqn.controller" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\357Itrip\itripauth\src\main\java\com\bdqn\controller" />
+      <recent name="D:\357Itrip\itripauth\target\classes" />
+      <recent name="D:\357Itrip\itripbeans\src\main\java\cn\itrip\pojo" />
+      <recent name="D:\357Itrip\itripbiz\src\main\resources" />
+      <recent name="D:\357Itrip\itriputils\src\main\java\common" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Maven.biz-8081">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bdqn.controller.App" />
+      <module name="itripauth" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bdqn.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SDKTestSendTemplateSMS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bdqn.controller.SDKTestSendTemplateSMS" />
+      <module name="itripauth" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bdqn.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="a" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bdqn.controller.a" />
+      <module name="itripauth" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bdqn.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="auth" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/itripauth" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="biz-8081" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/itripbiz" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.a" />
+      <item itemvalue="Application.SDKTestSendTemplateSMS" />
+      <item itemvalue="Application.App" />
+      <item itemvalue="Maven.auth" />
+      <item itemvalue="Maven.biz-8081" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+        <item itemvalue="Application.SDKTestSendTemplateSMS" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ed36362-d73b-4fa4-a2ea-5e908d969064" name="Default Changelist" comment="" />
+      <created>1645685045083</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1645685045083</updated>
+      <workItem from="1645685047500" duration="1857000" />
+      <workItem from="1645770185921" duration="1996000" />
+      <workItem from="1645772219399" duration="2281000" />
+      <workItem from="1646033437651" duration="4658000" />
+      <workItem from="1646288403311" duration="1563000" />
+      <workItem from="1646290011459" duration="3812000" />
+      <workItem from="1646624315556" duration="9795000" />
+      <workItem from="1646789915226" duration="7964000" />
+      <workItem from="1646805483127" duration="140000" />
+      <workItem from="1646805757840" duration="1070000" />
+      <workItem from="1646833936410" duration="532000" />
+      <workItem from="1646891081414" duration="11058000" />
+      <workItem from="1646904569659" duration="6954000" />
+      <workItem from="1646959655414" duration="1822000" />
+      <workItem from="1646990954266" duration="490000" />
+      <workItem from="1647247413938" duration="1209000" />
+      <workItem from="1647583698792" duration="2515000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="178" key="#Project_Structure" timestamp="1646891155158">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1646891155158" />
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1646635857704">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1646635857704" />
+    <state x="1160" y="269" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1645685221256">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1160" y="269" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1645685221256" />
+    <state x="630" y="445" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1646790682629">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="630" y="445" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1646790682629" />
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1646908537335">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1646908537335" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1646033525725">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1646033525725" />
+    <state width="1724" height="157" key="GridCell.Tab.0.bottom" timestamp="1646981792801">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1724" height="157" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1646981792801" />
+    <state width="1724" height="157" key="GridCell.Tab.0.center" timestamp="1646981792801">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1724" height="157" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1646981792801" />
+    <state width="1724" height="157" key="GridCell.Tab.0.left" timestamp="1646981792801">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1724" height="157" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1646981792801" />
+    <state width="1724" height="157" key="GridCell.Tab.0.right" timestamp="1646981792801">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1724" height="157" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1646981792801" />
+    <state width="1877" height="344" key="GridCell.Tab.1.bottom" timestamp="1646911897561">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="344" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1646911897561" />
+    <state width="1877" height="344" key="GridCell.Tab.1.center" timestamp="1646911897561">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="344" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1646911897561" />
+    <state width="1877" height="344" key="GridCell.Tab.1.left" timestamp="1646911897561">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="344" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1646911897561" />
+    <state width="1877" height="344" key="GridCell.Tab.1.right" timestamp="1646911897561">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="344" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1646911897561" />
+    <state x="490" y="175" key="Maven.ArtifactSearchDialog" timestamp="1646289651810">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="490" y="175" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1646289651810" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1645685111220">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1645685111220" />
+    <state x="866" y="581" key="com.intellij.ide.util.TipDialog" timestamp="1647583702030">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="866" y="581" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1647583702030" />
+    <state x="721" y="209" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1646891360095">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="721" y="209" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1646891360095" />
+    <state x="459" y="129" width="1251" height="620" key="new project wizard" timestamp="1645685641068">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="459" y="129" width="1251" height="620" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1645685641068" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1646046272079">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1646046272079" />
+    <state x="538" y="361" width="672" height="678" key="search.everywhere.popup" timestamp="1646991005981">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="538" y="361" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1646991005981" />
+  </component>
+</project>

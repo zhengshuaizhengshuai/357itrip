@@ -1,0 +1,4 @@
+127.0.0.1 - - [11/Mar/2022:09:51:35 +0800] "GET /auth/api/ckusr?name=zzzsss11111s%40163.com HTTP/1.0" 200 58 http-bio-8080-exec-1 77
+127.0.0.1 - - [11/Mar/2022:09:51:52 +0800] "POST /auth/api/doregister HTTP/1.0" 200 58 http-bio-8080-exec-2 9996
+127.0.0.1 - - [11/Mar/2022:09:51:59 +0800] "PUT /auth/api/activate?user=zzzsss11111s%40163.com&code=8774 HTTP/1.0" 200 67 http-bio-8080-exec-3 14
+127.0.0.1 - - [11/Mar/2022:09:52:04 +0800] "POST /auth/api/dologin HTTP/1.0" 200 183 http-bio-8080-exec-4 171
